@@ -1,2 +1,2 @@
-# my-portfolio
-Serverless portfolio React, Babel
+# Najmeh Kamyabpour's portfolio
+This is my professional Serverless portfolio 
